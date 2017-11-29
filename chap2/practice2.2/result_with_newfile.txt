@@ -1,0 +1,2 @@
+Create newfile
+/usr/local/opt/python/libexec/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/iuseob/opt/gcc-arm-none-eabi-6-2017-q2-update/bin/:/Users/iuseob/opt/nRF5X-Command-Line_Tools_9_5_0_OSX/nrfjprog/
